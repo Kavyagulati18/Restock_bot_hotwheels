@@ -61,4 +61,4 @@ while True:
         else:
             alerted[product["url"]] = False
 
-    time.sleep(300)
+    time.sleep(350)
