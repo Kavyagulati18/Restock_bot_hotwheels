@@ -18,6 +18,11 @@ PRODUCTS = [
     {
         "name": "Hot Wheels FnF",
         "url": "https://www.karzanddolls.com/details/hot+wheels/fast-and-furious/MTEz"
+    },
+    {
+        "name": "FirstCry Hot Wheels DROP",
+        "url": "https://www.firstcry.com/hotwheels/5/0/113?sort=popularity&q=ard-hotwheels&ref2=q_ard_hotwheels&asid=53241",
+        "site": "firstcry"
     }
 ]
 
